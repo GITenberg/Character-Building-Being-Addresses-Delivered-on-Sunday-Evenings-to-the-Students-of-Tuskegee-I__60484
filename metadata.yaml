@@ -1,5 +1,8 @@
 _repo: Character-Building-Being-Addresses-Delivered-on-Sunday-Evenings-to-the-Students-of-Tuskegee-I__60484
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60484-h/images/cover.jpg
 creator:
   author:
     agent_name: Washington, Booker T.
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/880
     wikipedia: http://en.wikipedia.org/wiki/Booker_T._Washington
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60484#Character-Building-Being-Addresses-Delivered-on-Sunday-Evenings-to-the-Students-of-Tuskegee-I_
 gutenberg_issued: '2019-10-13'
 gutenberg_type: Text
 identifiers:
